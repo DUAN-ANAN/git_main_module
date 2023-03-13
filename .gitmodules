@@ -1,0 +1,3 @@
+[submodule "git_sub_module"]
+	path = git_sub_module
+	url = https://github.com/DUAN-ANAN/git_sub_module
